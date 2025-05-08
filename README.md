@@ -27,5 +27,5 @@ Sou Mateus Cardoso Rodio, um desenvolvedor apaixonado por SAP e especificamente 
 ## Entre em contato
 
 Quer conversar ou colaborar?  
-📫 Email: (mateusrodio11@gmail.com)  
-🔗 LinkedIn: (https://www.linkedin.com/in/mateus-cardoso-rodio-b570a4283/)
+📫 Email: [mateusrodio11@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/mateus-cardoso-rodio-b570a4283/]
