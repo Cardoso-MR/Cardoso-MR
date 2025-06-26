@@ -8,8 +8,8 @@ Sou Mateus Cardoso Rodio, um desenvolvedor apaixonado por SAP e especificamente 
 
 - **Profissão:** Desenvolvedor ABAP  
 - **Especialidades:** Programação SAP ABAP, SAP Gateway, SAP Fiori, EDI, integrações e melhorias de processos empresariais.  
-- **Formação:** [Inserir sua formação acadêmica, se desejar]  
-- **Certificações:** [Inserir certificações relevantes, se tiver]  
+- **Formação:** Analise e Desenvolvimento de Sistemas  
+- **Certificações:** Pi/Po, Fiori, CdsViews, CPI, ABAP S4hana. 
 - **Experiência:** Tenho ampla experiência na implementação de soluções SAP, otimizando processos empresariais e entregando resultados de alta qualidade.
 
 ---
